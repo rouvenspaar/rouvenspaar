@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello! I'm **Rouven Spaar**, a 20 y/o ME student with a keen interest in **aerospace**, **programming**, and **astronomy**.
+Hello! I'm **Rouven Spaar**, a 21 y/o ME student with a keen interest in **aerospace**, **programming**, and **astronomy**.
 
 ## 🚀 What I'm Currently Working On
 
